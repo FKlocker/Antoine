@@ -1,0 +1,21 @@
+ 	n-Butane	i-Butane	13-Butadiene	1-Butene	cis2-Butene	tr2-Butene	i-Butene	Methanol	Hydrogen	MTBE	H2O
+Equation Shape	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f	Anto3                ln(Y) = a + b/(X + c) + d*ln(X) + e*X^f
+Y Shape	Yvar                 y	Yvar                 y	Yvar                 y	Yvar                 y	Yvar                 y	Yvar                 y	Yvar                 y	Yvar                 y	Yvar                 y	Yvar                 y	Yvar                 y
+Y Coefficient	1	1	1	1	1	1	1	1	1	1	1
+Y Shape Norm	1	1	1	1	1	1	1	1	1	1	1
+X Shape	X                    x	X                    x	X                    x	X                    x	X                    x	X                    x	X                    x	X                    x	X                    x	X                    x	X                    x
+X Coefficient	1	1	1	1	1	1	1	1	1	1	1
+X Shape Norm	1	1	1	1	1	1	1	1	1	1	1
+Eqn. Xmin	170	165	196	170	202,998001098633	274,028015136719	170	288	13	286	275
+Eqn. Xmax	425,199005126953	408,096008300781	425	419,600006103516	435,578002929688	428,627014160156	417,898010253906	512,598022460938	32	496,398010253906	647,299011230469
+Default Q	1,01325	1,01325	1,01325	1,01325	1,01325	1,01325	1,01325	1,01325	1,01325	1,01325	1,01325
+a	66,945	58,7845	63,5345	65,4218	66,2488	82,1563	57,8859	59,8373	9,1827	83,1465	65,9278
+b	-4604,09	-4136,68	-4460,31	-4487,6	-4720,75	-5279,24	-4236,31	-6282,89	-107,929	-6284,79	-7227,53
+c	0	0	0	0	0	0	0	0	0	0	0
+d	-8,25491	-7,01666	-7,702	-8,01753	-8,06811	-10,5631	-6,81038	-6,37873	0,164099	-10,4252	-7,17695
+e	1,15706E-05	1,03662E-05	1,08034E-05	1,13126E-05	1,03185E-05	1,36022E-05	9,39886E-06	4,61746E-06	0,00060218	9,47316E-06	4,0313E-06
+f	2	2	2	2	2	2	2	2	2	2	2
+g	0	0	0	0	0	0	0	0	0	0	0
+h	0	0	0	0	0	0	0	0	0	0	0
+i	0	0	0	0	0	0	0	0	0	0	0
+j	0	0	0	0	0	0	0	0	0	0	0
